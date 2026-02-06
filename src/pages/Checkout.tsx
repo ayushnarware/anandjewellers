@@ -39,7 +39,7 @@ const Checkout = () => {
             <div className="flex justify-between items-start mb-8">
               <div>
                 <h2 className="text-2xl font-display font-bold gradient-gold-text">Anand Jewels</h2>
-                <p className="text-xs font-sans text-muted-foreground mt-1">42, Jewellers Street, Mumbai 400002</p>
+                <p className="text-xs font-sans text-muted-foreground mt-1"> 575, 12, Mahatma Gandhi Rd, opp. TI Mall, Manorama Ganj, Indore, Madhya Pradesh 452003</p>
               </div>
               <div className="text-right">
                 <p className="text-xs font-sans text-muted-foreground uppercase tracking-wider">Invoice</p>

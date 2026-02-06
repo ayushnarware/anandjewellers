@@ -22,7 +22,7 @@ const App = () => (
       <CartProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter basename="/anandjewellers">
           <Header />
           <CartDrawer />
           <Routes>

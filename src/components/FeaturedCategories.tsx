@@ -4,9 +4,9 @@ import { ArrowRight } from "lucide-react";
 const featured = [
   { name: "Rings", image: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=500&fit=crop", count: "24 Designs" },
   { name: "Necklaces", image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=500&fit=crop", count: "16 Designs" },
-  { name: "Earrings", image: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=500&fit=crop", count: "24 Designs" },
+  { name: "Earrings", image: "https://www.bing.com/th?id=OPAC.71gA0%2baqbbzm6g474C474&o=5&pid=21.1&w=140&h=168&rs=1&qlt=100&dpr=1&o=2&c=8&pcl=f5f5f5", count: "24 Designs" },
   { name: "Bangles", image: "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=400&h=500&fit=crop", count: "14 Designs" },
-  { name: "Sets", image: "https://images.unsplash.com/photo-1515562141589-67f0d5e24940?w=400&h=500&fit=crop", count: "8 Designs" },
+  { name: "Sets", image: "https://www.bing.com/th?id=OPAC.%2bfc1efW7wWe9vA474C474&o=5&pid=21.1&w=140&h=168&rs=1&qlt=100&dpr=1&o=2&c=8&pcl=f5f5f5", count: "8 Designs" },
 ];
 
 const FeaturedCategories = () => (
